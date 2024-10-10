@@ -4,4 +4,4 @@
 
 3 файла, которые начинаются на test_pred... - это три финальных решения, выбранные на отправку в приват хакатона.
 
-Последняя модель, залитая на хаггинг фейс: Gnider/hack_final_30ep_xmlroberta_aug9000
+Последняя модель, залитая на хаггинг фейс: [Gnider/hack_final_30ep_xmlroberta_aug9000](https://huggingface.co/Gnider/hack_final_30ep_xmlroberta_aug9000)
